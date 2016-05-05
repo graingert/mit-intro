@@ -612,4 +612,4 @@ Want to learn faster and easier? Here we have **Instant IntroJs**, Packt Publish
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/intro.js)
 
 ## License
-MIT, see LICENSE.md
+MIT, see LICENSE
